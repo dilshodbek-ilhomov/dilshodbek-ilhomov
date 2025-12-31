@@ -2,7 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=DILSHODBEK%20ILHOMOV&fontSize=40&fontColor=00d4ff&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20|%2015%20Y/O%20|%20System-Oriented&descSize=14&descAlignY=55&descAlign=50)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Backend+Developer+%7C+15+Years+Old;Python+•+Django+•+FastAPI+•+Telegram+Bots;Junior+%7C+System-Oriented+%7C+Fast+Learner" />
 
 <br/>
 
@@ -78,19 +77,8 @@ Backend first.
 
 ---
 
-### `> LIVE STATISTICS`
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dilshodbek-ilhomov&show_icons=true&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=a8b2d1&icon_color=00d4ff" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshodbek-ilhomov&layout=compact&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=a8b2d1" />
-
-<img src="https://streak-stats.demolab.com?user=dilshodbek-ilhomov&hide_border=true&background=00000000&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
-
-</div>
-
----
 
 ### `> ACTIVITY GRAPH`
 
